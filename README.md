@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samweb
-- 👀 I’m interested in wordpress developer and php development 
+- 👀 I’m working in wordpress and php development 
 - 
  
 
