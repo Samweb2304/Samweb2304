@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Samweb2304
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Samweb
+- 👀 I’m interested in wordpress developer and php development 
+- 
+ 
+
 
 <!---
 Samweb2304/Samweb2304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
